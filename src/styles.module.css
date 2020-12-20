@@ -7,3 +7,14 @@
   font-size: 2em;
   text-align: center;
 }
+
+.imgContainer {
+  width: 500px; height: auto;
+  position: relative;
+}
+
+.imgContainer img {
+  top: 15px;
+  width: 100%;
+  display: block;
+}
